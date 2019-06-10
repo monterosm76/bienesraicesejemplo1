@@ -1,0 +1,236 @@
+body{
+    width: 1255px;
+    height: auto;
+}
+
+.backg{
+    background: red url(img/header.jpg);
+    height:610px;
+    width: 1007px;
+    margin-top:-8px;
+    margin-left:-8px;
+}
+
+#logo{
+    margin-left: 90px;
+    margin-top: 20px;
+    width: 250px;
+}
+
+.navbar{
+    text-align: right;
+    margin-bottom: 56px;
+    margin-top: -576px;
+    margin-right: 70px;
+    color: white;
+
+}
+a{
+    color: white
+}
+#titb{
+    margin-top: 370px;
+    margin-left: 90px;
+    color: white;
+}
+
+#titb2{
+    margin-top: 20px;
+}
+
+#Nosotros2{
+    margin-left:412px;
+    margin-top: 60px;
+}
+
+.Seguridad{
+    width:300px;height:.933px
+}
+.Precio{
+    width:300px;height:.933px;margin-left:350px
+}
+.Tiempo{
+    width:300px;margin-left:685px
+}
+
+#cydenv{
+    margin-left:333px;
+}
+.Casa1{
+    width:300px;height:0px;margin-left:30px
+}
+
+.Casa1IMG{
+    width:300px
+}
+#dinero{
+    color:green
+}
+
+.iconosc1{
+    height: 37px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#p-c1-1{
+    height: 17px;
+    width: 7px;
+    margin-left:40px;
+    margin-top: -30px;
+    margin-bottom: -5px;
+}
+
+#img-c1-2{
+    margin-left:80px;
+    margin-top: -30px;
+}
+
+#p-c1-2{
+    height: 17px;
+    width: 7px;
+    margin-left: 140px;
+    margin-top: -30px;
+    margin-bottom: -5px;
+}
+
+#img-c1-3{
+    margin-left:170px;
+    margin-top: -40px;
+}
+
+#p-c1-3{
+    height: 17px;
+    width: 7px;
+    margin-left: 230px;
+    margin-top: -30px;
+    margin-bottom: 0px;
+}
+
+.Casa2{
+    width:300px;height:0px;margin-left:347px
+}
+.Casa2IMG{
+    width:300px
+}
+.iconosc2{
+    height: 37px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#p-c2-1{
+    height: 17px;
+    width: 7px;
+    margin-left:40px;
+    margin-top: -30px;
+    margin-bottom: -5px;
+}
+
+#img-c2-2{
+    margin-left:80px;
+    margin-top: -30px;
+}
+
+#p-c2-2{
+    height: 17px;
+    width: 7px;
+    margin-left: 140px;
+    margin-top: -30px;
+    margin-bottom: -5px;
+}
+
+#img-c2-3{
+    margin-left:170px;
+    margin-top: -40px;
+}
+
+#p-c2-3{
+    height: 17px;
+    width: 7px;
+    margin-left: 230px;
+    margin-top: -30px;
+    margin-bottom: 0px;
+}
+
+.Casa3{
+    width:300px;margin-left:665px
+}
+.Casa3IMG{
+    width:300px
+}
+.iconosc3{
+    height: 37px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#p-c3-1{
+    height: 17px;
+    width: 7px;
+    margin-left:40px;
+    margin-top: -30px;
+    margin-bottom: -5px;
+}
+
+#img-c3-2{
+    margin-left:80px;
+    margin-top: -30px;
+}
+
+#p-c3-2{
+    height: 17px;
+    width: 7px;
+    margin-left: 140px;
+    margin-top: -30px;
+    margin-bottom: -5px;
+}
+
+#img-c3-3{
+    margin-left:170px;
+    margin-top: -40px;
+}
+
+#p-c3-3{
+    height: 17px;
+    width: 7px;
+    margin-left: 230px;
+    margin-top: -30px;
+    margin-bottom: 0px;
+}
+
+.Sueños{
+background: red url(img/encuentra.jpg);
+    color: white;
+    height:300px;
+    width: 1007px;
+    margin-top:50px;
+    margin-left:-8px;
+}
+
+
+#Blog1IMG{
+    width:300px
+}
+#Blog2IMG{
+    width:300px
+}
+
+#fecha,#admine{
+    color: orange
+}
+
+
+.Testimoniales{
+    background-color: green;
+    margin-left: 500px;
+    width: 450.75px;
+    height: 300.633px;
+    margin-bottom: 670px;
+    margin-top: -1000px;
+}
+
+footer
+{
+    margin-top:50px;
+    width:100%;
+    height:200px;
+    background-color:red;
+}
